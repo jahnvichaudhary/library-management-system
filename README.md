@@ -188,7 +188,3 @@ python manage.py createsuperuser
 ```commandline
 python manage.py runserver
 ```
-
-## Author
-
-Zhongyu Chen
